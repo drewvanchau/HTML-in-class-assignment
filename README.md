@@ -1,4 +1,4 @@
-#HTML in-class assignment
+# HTML in-class assignment
 
 Drew Van Chau
 
